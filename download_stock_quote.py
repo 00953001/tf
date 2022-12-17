@@ -2,7 +2,7 @@
 # $python download_stock_quote.py SYMBOL
 import sys
 from alpha_vantage.timeseries import TimeSeries
-API_KEY = 'K6LJO3BJMBJMTT1A' # get it free from https://www.alphavantage.co/
+API_KEY = 'FS3N5NXJX1IXR3EI' # get it free from https://www.alphavantage.co/
 
 symbol = sys.argv[1]
 
